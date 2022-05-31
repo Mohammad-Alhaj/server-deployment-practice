@@ -19,7 +19,8 @@
 
   ## The URL
  [server-deploy-prod](https://mohammadal-server-deploy-prod.herokuapp.com/)
- [server-deploy-dev][https://mohammad-server-deploy-dev.herokuapp.com/]
+
+ [server-deploy-dev](https://mohammad-server-deploy-dev.herokuapp.com/)
 
  [pull request](https://github.com/Mohammad-Alhaj/server-deployment-practice/pulls)
 
